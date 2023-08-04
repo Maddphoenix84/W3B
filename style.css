@@ -5,7 +5,7 @@ body {
 
 }
 #thetop {
-  
+    
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr
 
@@ -13,9 +13,9 @@ body {
 
 
 #maincontent{
-        background-color: aliceblue;
+        background-color: cornsilk;
         font-family: 'Times New Roman', Times, serif;
-        
+
         display: grid;
         grid-template-columns: 1fr 1fr 1fr 1fr;
 }
@@ -33,21 +33,18 @@ body {
 
 
 #macros{
+    border: solid;
    display: grid;
-
- 
-    
-
-
 }
 
 #amdr{
-    
+  display: grid;  
     
 
 }
 
 #hpm{
+    border: solid;
     background-color:
     
 
