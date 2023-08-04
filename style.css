@@ -1,0 +1,63 @@
+body {
+    background-color: cornsilk;
+    display: grid;
+    grid-template-rows: 1fr 2fr 1fr;
+
+}
+#thetop {
+  
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr
+
+}
+
+
+#maincontent{
+        background-color: aliceblue;
+        font-family: 'Times New Roman', Times, serif;
+        
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+
+
+
+
+
+    
+
+
+
+
+
+
+#macros{
+   display: grid;
+
+ 
+    
+
+
+}
+
+#amdr{
+    
+    
+
+}
+
+#hpm{
+    background-color:
+    
+
+
+
+
+} 
+
+#thefooter {
+   
+    
+
+}
